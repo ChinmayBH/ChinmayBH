@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on AI - ML<br>👯 I’m looking to collaborate on Computer vision , data science .<br><br>🌱 I’m currently learning new tech stack related to computer vision and Statistics<br>💬 Ask me about Computer vision, data science, python and poetry <br>⚡ Fun fact : I love horror story writing 
+🔭 I’m currently working on AI|ML|LLM|Computer Vision<br>👯 I’m looking to collaborate on Computer vision , data science .<br><br>🌱 I’m currently learning new tech stack related to computer vision and Statistics<br>💬 Ask me about Computer vision, data science, python and poetry <br>⚡ Fun fact : I love horror story writing 
+you can follow me on Medium (https://medium.com/@BH_Chinmay)
 
 
 ## 🌐 Socials:
