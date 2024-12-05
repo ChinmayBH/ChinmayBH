@@ -1,6 +1,23 @@
 # 💫 About Me:
-🔭 I’m currently working on AI|ML|LLM|Computer Vision<br>👯 I’m looking to collaborate on Computer vision,data science,Machine Learning and LLM.<br>🌱 I’m currently learning new tech stack related to computer vision and Statistics<br>💬 Ask me about Computer vision, data science, python and poetry <br>⚡ Fun fact : I love horror story writing<br>
-you can follow me on Medium (https://medium.com/@BH_Chinmay)
+
+👋 Hi there! I am a dedicated professional specializing in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Large Language Models (LLMs)**, and **Computer Vision**.  
+
+## 🌟 What I’m Working On  
+- **Current Focus:** Developing innovative solutions in AI, ML, LLMs, and Computer Vision.  
+- **Collaboration Interests:** Open to working on projects in Computer Vision, Data Science, Machine Learning, and LLM development.  
+
+## 🌱 Ongoing Learning  
+- Expanding my expertise in **Computer Vision** and **statistical methodologies**.  
+- Exploring cutting-edge tools and technologies in the AI and data science ecosystem.  
+
+## 💬 Ask Me About  
+- **Data Science:** Concepts, applications, and tools.  
+- **Programming:** Expertise in Python, libraries, and frameworks.  
+- **AI/ML/LLMs:** Implementation, optimization, and practical use cases.  
+- **Creative Writing:** A passionate poet and writer of horror stories.  
+
+## ⚡ Fun Fact  
+When I’m not working on AI, you’ll often find me crafting spooky horror stories!  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay-bhalerao-6b5284137) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@BH_Chinmay) 
 
